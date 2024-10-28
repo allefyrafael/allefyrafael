@@ -1,6 +1,6 @@
 ## Oii, eu sou a Allefyrafael, criador de conteúdo de Ciência de Dados e Inteligência Artificial! 🎉
 
-<div style="display: flex" align-items=center justify-content = center>
+<div style="display: flex" align=center justify-content = center>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=allefyrafael&show_icons=true&theme=dark"
