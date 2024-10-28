@@ -1,6 +1,6 @@
 ## Oii, eu sou a Allefyrafael, criador de conteúdo de Ciência de Dados e Inteligência Artificial! 🎉
 
-<div style"display: flex , padding: 20px" align=center>
+<div style"display: flex" align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=allefyrafael&show_icons=true&theme=dark" />
 </a>
