@@ -1,51 +1,47 @@
-# 🚀 Ciência de Dados & Inteligência Artificial
+## Oii, eu sou a Allefyrafael, criador de conteúdo de Ciência de Dados e Inteligência Artificial! 🎉
 
-![Capa do Repositório](https://via.placeholder.com/1200x400?text=Capa+do+GitHub) <!-- Substitua pelo link da sua imagem -->
+Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período, mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
-## 📊 Sobre
+<div style="display: inline_block"><br>
+  <img align="center" alt="Allefyrafael-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Allefyrafael-Pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Allefyrafael-Numpy" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Allefyrafael-TensorFlow" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="Allefyrafael-Keras" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg">
+  <img align="center" alt="Allefyrafael-Scikit-Learn" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg">
+  <img align="center" alt="Allefyrafael-Matplotlib" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg">
+  <img align="center" alt="Allefyrafael-Seaborn" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg">
+</div>
 
-Bem-vindo ao meu repositório de Ciência de Dados e Inteligência Artificial! Aqui você encontrará projetos, tutoriais e recursos voltados para análise de dados, aprendizado de máquina e muito mais.
+## 🌟 Meus Links
 
-## 🛠️ Tecnologias Utilizadas
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-- Python
-- R
-- Pandas
-- NumPy
-- Scikit-Learn
-- TensorFlow
-- Keras
-- Matplotlib
-- Seaborn
+## 📚 Projetos em Destaque
 
-## 🔍 Projetos
+- **Análise de Dados com Python:** Um projeto que explora a análise de dados usando bibliotecas como Pandas e Matplotlib.
+- **Modelagem de Machine Learning:** Implementação de modelos de aprendizado de máquina com Scikit-Learn e TensorFlow.
+- **Visualização de Dados:** Criação de dashboards interativos utilizando Seaborn e Plotly.
 
-### 1. [Nome do Projeto 1](link-do-projeto-1)
-Descrição breve do projeto 1, destacando os objetivos e resultados alcançados.
+## 🎨 Animações e Visualizações
 
-### 2. [Nome do Projeto 2](link-do-projeto-2)
-Descrição breve do projeto 2, destacando os objetivos e resultados alcançados.
+Aqui estão algumas visualizações interessantes que você pode explorar:
 
-### 3. [Nome do Projeto 3](link-do-projeto-3)
-Descrição breve do projeto 3, destacando os objetivos e resultados alcançados.
+![Exemplo de Visualização 1](https://via.placeholder.com/600x300?text=Exemplo+de+Visualização+1) <!-- Substitua pelo link da sua imagem -->
+![Exemplo de Visualização 2](https://via.placeholder.com/600x300?text=Exemplo+de+Visualização+2) <!-- Substitua pelo link da sua imagem -->
+![Exemplo de Visualização 3](https://via.placeholder.com/600x300?text=Exemplo+de+Visualização+3) <!-- Substitua pelo link da sua imagem -->
 
-## 📚 Recursos
+## 🎥 Animações de Aprendizado
 
-- [Kaggle](https://www.kaggle.com)
-- [Coursera](https://www.coursera.org)
-- [Towards Data Science](https://towardsdatascience.com)
-- [Machine Learning Mastery](https://machinelearningmastery.com)
-
-## 💡 Contato
-
-Se você tiver alguma dúvida ou quiser discutir sobre Ciência de Dados e Inteligência Artificial, sinta-se à vontade para entrar em contato!
-
-- Email: seu-email@example.com
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
-
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
+![Animação 1](https://media.giphy.com/media/3o7aD5f2NeFzK6x0zG/giphy.gif) <!-- Substitua pelo link da sua animação -->
+![Animação 2](https://media.giphy.com/media/5GoVLqeAOo6PK8Qv9i/giphy.gif) <!-- Substitua pelo link da sua animação -->
 
 ---
 
