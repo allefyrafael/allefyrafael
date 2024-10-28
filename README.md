@@ -13,6 +13,8 @@ Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar ness
   <img align="center" alt="Allefyrafael-Seaborn" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg">
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/allefyrafael/github-readme-stats)
+
 ## 🌟 Meus Links
 
 <div> 
