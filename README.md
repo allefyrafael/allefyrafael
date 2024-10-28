@@ -1,7 +1,6 @@
 ## Oii, eu sou a Allefyrafael, criador de conteúdo de Ciência de Dados e Inteligência Artificial! 🎉
-<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allefyrafael&show_icons=true&theme=dark)
-</div>
+
 
 
 
