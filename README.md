@@ -1,6 +1,6 @@
 ## Oii, eu sou a Allefyrafael, criador de conteúdo de Ciência de Dados e Inteligência Artificial! 🎉
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período, mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período, mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/a/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Allefyrafael-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -13,7 +13,7 @@ Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar ness
   <img align="center" alt="Allefyrafael-Seaborn" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg">
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/allefyrafael/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allefyrafael)](https://github.com/allefyrafael/github-readme-stats)
 
 ## 🌟 Meus Links
 
