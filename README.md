@@ -12,7 +12,7 @@
 
 
 
-<div style="display: inline_block , background-color: black" align= center><br>
+<div style="display: inline_block , background-color: white" align= center><br>
   <img align="center" alt="Allefy-Html5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Allefy-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="Allefy-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
