@@ -1,4 +1,4 @@
-## Oii, eu sou a Allefy Rafael
+## Oii, eu sou o Allefy Rafael
 
 <div style="display: flex" align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
