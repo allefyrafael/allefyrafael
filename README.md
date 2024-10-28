@@ -11,7 +11,7 @@
 
 <div style="background-color: #e6e6e6; padding: 20px; border-radius: 10px; margin: 20px 0;" align="center">
   <h3 style="margin-bottom: 15px;">Tecnologias que uso</h3>
-  <div style="display: inline-block;">
+  <div style="display: flex;">
     <div>
       <h4 style="margin-bottom: 15px;">Desenvolvimento</h4>
       <img align="center" alt="Allefy-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
