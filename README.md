@@ -8,23 +8,17 @@
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=allefyrafael&theme=dark&layout=compact&langs_count=8&card_width=300" />
   </a>
 </div>
-<div style="background-color: #e6e6e6; padding: 20px; border-radius: 10px; margin: 20px 0; display: flex;" align="center">
-  <h3 style="margin-bottom: 15px;">Tecnologias que uso</h3>
-      <h4 style="margin-bottom: 15px;">Desenvolvimento</h4>
-      <img align="center" alt="Allefy-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-      <img align="center" alt="Allefy-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-      <img align="center" alt="Allefy-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-      <img align="center" alt="Allefy-Html5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-      <img align="center" alt="Allefy-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-      <img align="center" alt="Allefy-MySql" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-      <h4 style="margin-bottom: 15px;">Ciência de Dados</h4>
-      <img align="center" alt="Allefy-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-      <img align="center" alt="Allefy-Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
-      <img align="center" alt="Allefy-Numpy"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
-      <img align="center" alt="Allefy-Scikit-Learn" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
-      <img align="center" alt="Allefy-Matplotlib" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">
-  </div>
-</div>
+
+## 🛠 Tecnologias que uso
+
+| Desenvolvimento                                                                                                                   | Ciência de Dados                                                                                                                       |
+|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| <img alt="Allefy-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> | <img alt="Allefy-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> |
+| <img alt="Allefy-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">           | <img alt="Allefy-Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">    |
+| <img alt="Allefy-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">     | <img alt="Allefy-Numpy" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">      |
+| <img alt="Allefy-HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"> | <img alt="Allefy-Scikit-Learn" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"> |
+| <img alt="Allefy-CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">  | <img alt="Allefy-Matplotlib" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">  |
+| <img alt="Allefy-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"> |                                                                                                                                         |
 
 ## 🌟 Meus Links
 
@@ -42,19 +36,6 @@
 - **Análise de Dados com Python:** Um projeto que explora a análise de dados usando bibliotecas como Pandas e Matplotlib.
 - **Modelagem de Machine Learning:** Implementação de modelos de aprendizado de máquina com Scikit-Learn e TensorFlow.
 - **Visualização de Dados:** Criação de dashboards interativos utilizando Seaborn e Plotly.
-
-## 🎨 Animações e Visualizações
-
-Aqui estão algumas visualizações interessantes que você pode explorar:
-
-![Exemplo de Visualização 1](https://via.placeholder.com/600x300?text=Exemplo+de+Visualização+1) <!-- Substitua pelo link da sua imagem -->
-![Exemplo de Visualização 2](https://via.placeholder.com/600x300?text=Exemplo+de+Visualização+2) <!-- Substitua pelo link da sua imagem -->
-![Exemplo de Visualização 3](https://via.placeholder.com/600x300?text=Exemplo+de+Visualização+3) <!-- Substitua pelo link da sua imagem -->
-
-## 🎥 Animações de Aprendizado
-
-![Animação 1](https://media.giphy.com/media/3o7aD5f2NeFzK6x0zG/giphy.gif) <!-- Substitua pelo link da sua animação -->
-![Animação 2](https://media.giphy.com/media/5GoVLqeAOo6PK8Qv9i/giphy.gif) <!-- Substitua pelo link da sua animação -->
 
 ---
 
