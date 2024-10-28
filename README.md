@@ -1,14 +1,12 @@
 ## Oii, eu sou a Allefyrafael, criador de conteúdo de Ciência de Dados e Inteligência Artificial! 🎉
 
 <div style"display: flex">
-<picture>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=allefyrafael&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=allefyrafael&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
-</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -20,6 +18,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 </a>
+</div>
 
 
 
