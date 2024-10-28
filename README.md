@@ -13,7 +13,7 @@
   <h3 style="margin-bottom: 15px;">Tecnologias que uso</h3>
   <div style="display: inline-block;">
     <div>
-      ## Desenvolvimento
+      <h4 style="margin-bottom: 15px;">Desenvolvimento</h4>
       <img align="center" alt="Allefy-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
       <img align="center" alt="Allefy-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
       <img align="center" alt="Allefy-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
@@ -22,7 +22,7 @@
       <img align="center" alt="Allefy-MySql" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
     </div>
     <div>
-      ## Ciência de dados
+      <h4 style="margin-bottom: 15px;">Ciência de Dados</h4>
       <img align="center" alt="Allefy-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
       <img align="center" alt="Allefy-Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
       <img align="center" alt="Allefy-Numpy"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
