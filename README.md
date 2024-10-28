@@ -13,7 +13,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/allefyrafael/github-readme-stats"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=allefyrafael)](https://github.com/allefyrafael/github-readme-stats"
     media="(prefers-color-scheme: dark)"
   />
   <source
