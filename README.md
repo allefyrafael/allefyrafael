@@ -1,4 +1,6 @@
 ## Oii, eu sou a Allefyrafael, criador de conteúdo de Ciência de Dados e Inteligência Artificial! 🎉
+
+<div style="display: flex">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=allefyrafael&show_icons=true&theme=dark"
@@ -13,16 +15,16 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=allefyrafael)](https://github.com/allefyrafael/github-readme-stats"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=allefyrafael"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=allefyrafael)](https://github.com/allefyrafael/github-readme-stats"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=allefyrafael"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allefyrafael)](https://github.com/allefyrafael/github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allefyrafael" />
 </picture>
-
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
