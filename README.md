@@ -9,9 +9,9 @@
   </a>
 </div>
 
-<div style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; margin: 20px 0;" align="center">
-  <h3>Tecnologias que uso</h3>
-  <div style="display: inline_block;">
+<div style="background-color: #e6e6e6; padding: 20px; border-radius: 10px; margin: 20px 0;" align="center">
+  <h3 style="margin-bottom: 15px;">Tecnologias que uso</h3>
+  <div style="display: inline-block;">
     <img align="center" alt="Allefy-Html5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
     <img align="center" alt="Allefy-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
     <img align="center" alt="Allefy-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
