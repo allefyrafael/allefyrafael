@@ -13,14 +13,16 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Allefyrafael-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Allefyrafael-Pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Allefyrafael-Numpy" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Allefyrafael-TensorFlow" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
-  <img align="center" alt="Allefyrafael-Keras" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg">
-  <img align="center" alt="Allefyrafael-Scikit-Learn" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg">
-  <img align="center" alt="Allefyrafael-Matplotlib" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg">
-  <img align="center" alt="Allefyrafael-Seaborn" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg">
+  <img align="center" alt="Allefy-Html5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="Allefy-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="Allefy-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Allefy-MySql" height="40" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+  
+  <img align="center" alt="Allefy-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Allefy-Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="Allefy-Numpy" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg">
+  <img align="center" alt="Allefy-Scikit-Learn" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
+  <img align="center" alt="Allefy-Matplotlib" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">
 </div>
 
 
