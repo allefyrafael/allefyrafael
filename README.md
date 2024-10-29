@@ -1,4 +1,5 @@
-## Oii, eu sou o Allefy Rafael
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=008F39&width=600&lines=Bem-vindo!+%F0%9F%91%8B+Eu+sou+Allefy+Rafael+" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=FF0000&width=600&lines=Veja+Mais+Descendo+" alt="Typing SVG" />
 
 <div style="display: flex" align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -34,12 +35,5 @@
   <a href=""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-
-## 🎥 Animações de Aprendizado
-
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=008F39&width=600&lines=Bem-vindo!+%F0%9F%91%8B+Eu+sou+Allefy+Rafael+" alt="Typing SVG" />
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=FF0000&width=600&lines=Veja+Mais+Descendo+" alt="Typing SVG" />
-
 
 Agradeço por visitar meu repositório! 🌟
