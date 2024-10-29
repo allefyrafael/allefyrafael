@@ -1,8 +1,7 @@
-
-## 💻Allefy Rafael
 <div align=center>
+  <h1>💻Allefy Rafael</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=008F39&width=600&lines=Seja+Bem-Vindo+,Terraqueo(a)!+%F0%9F%91%8B+" alt="Typing SVG" />
-  <img align=center src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=300&color=FF0000&width=600&lines=Veja+Mais+Descendo+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=300&color=FF0000&width=380&lines=Veja+Mais+Descendo!+" alt="Typing SVG" />
 </div>
 <div style="display: flex" align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
