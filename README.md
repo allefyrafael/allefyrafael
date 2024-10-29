@@ -35,17 +35,10 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-## 🎨 Animações e Visualizações
-
-Aqui estão algumas visualizações interessantes que você pode explorar:
-
-<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ## 🎥 Animações de Aprendizado
 
 ![Animação 1](https://giphy.com/embed/26tn33aiTi1jkl6H6) <!-- Substitua pelo link da sua animação -->
 
-
----
 
 Agradeço por visitar meu repositório! 🌟
