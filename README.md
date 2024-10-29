@@ -35,17 +35,11 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-## 📚 Projetos em Destaque
-
-- **Análise de Dados com Python:** Um projeto que explora a análise de dados usando bibliotecas como Pandas e Matplotlib.
-- **Modelagem de Machine Learning:** Implementação de modelos de aprendizado de máquina com Scikit-Learn e TensorFlow.
-- **Visualização de Dados:** Criação de dashboards interativos utilizando Seaborn e Plotly.
-
 ## 🎨 Animações e Visualizações
 
 Aqui estão algumas visualizações interessantes que você pode explorar:
 
-![Exemplo de Visualização 1](https://via.placeholder.com/600x300?text=Exemplo+de+Visualização+1) <!-- Substitua pelo link da sua imagem -->
+![Exemplo de Visualização 1](https://giphy.com/embed/26tn33aiTi1jkl6H6") <!-- Substitua pelo link da sua imagem -->
 ![Exemplo de Visualização 2](https://via.placeholder.com/600x300?text=Exemplo+de+Visualização+2) <!-- Substitua pelo link da sua imagem -->
 ![Exemplo de Visualização 3](https://via.placeholder.com/600x300?text=Exemplo+de+Visualização+3) <!-- Substitua pelo link da sua imagem -->
 
