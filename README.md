@@ -3,7 +3,6 @@
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=008F39&width=600&lines=Seja+Bem-Vindo+,Terraqueo(a)!+%F0%9F%91%8B+" alt="Typing SVG" />
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1700&color=FF0000&width=400&lines=Veja+Mais+Descendo!+" alt="Typing SVG" />
 </div>
 <div style="display: flex" align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -39,5 +38,5 @@
   <a href=""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-Agradeço por visitar meu repositório! 🌟
+<br>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1700&color=FF0000&width=400&lines=Veja+Mais+Descendo!+" alt="Typing SVG" />
