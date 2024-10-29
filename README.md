@@ -38,7 +38,7 @@
 
 ## 🎥 Animações de Aprendizado
 
-![Animação 1](https://giphy.com/embed/26tn33aiTi1jkl6H6](https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6) <!-- Substitua pelo link da sua animação -->
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=26A1EF&width=435&lines=Bem-vindo!+%F0%9F%91%8B;Eu+sou+um+desenvolvedor+apaixonado+por+c%C3%B3digo.;Sempre+aprendendo+algo+novo+todos+os+dias!+" alt="Typing SVG" />
 
 
 Agradeço por visitar meu repositório! 🌟
