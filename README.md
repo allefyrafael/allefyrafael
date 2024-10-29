@@ -39,7 +39,7 @@
 
 Aqui estão algumas visualizações interessantes que você pode explorar:
 
-![Exemplo de Visualização 1](https://giphy.com/embed/26tn33aiTi1jkl6H6") <!-- Substitua pelo link da sua imagem -->
+<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 ![Exemplo de Visualização 2](https://via.placeholder.com/600x300?text=Exemplo+de+Visualização+2) <!-- Substitua pelo link da sua imagem -->
 ![Exemplo de Visualização 3](https://via.placeholder.com/600x300?text=Exemplo+de+Visualização+3) <!-- Substitua pelo link da sua imagem -->
 
