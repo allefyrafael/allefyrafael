@@ -39,5 +39,5 @@
 
 <br>
 <div align=center>
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1700&color=FF0000&width=400&lines=Veja+Mais+Descendo!+" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1700&color=FF0000&width=280&lines=Veja+Mais+Descendo!+" alt="Typing SVG" />
  </div>
