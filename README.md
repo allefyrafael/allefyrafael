@@ -38,8 +38,8 @@
 
 ## 🎥 Animações de Aprendizado
 
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=008F39&width=435&lines=Bem-vindo!+%F0%9F%91%8B+Eu+sou+Allefy+Rafael+" alt="Typing SVG" />
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=FF0000&width=435&lines=Veja+Mais+Descendo+" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=008F39&width=600&lines=Bem-vindo!+%F0%9F%91%8B+Eu+sou+Allefy+Rafael+" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=FF0000&width=600&lines=Veja+Mais+Descendo+" alt="Typing SVG" />
 
 
 Agradeço por visitar meu repositório! 🌟
