@@ -40,13 +40,11 @@
 Aqui estão algumas visualizações interessantes que você pode explorar:
 
 <iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-![Exemplo de Visualização 2](https://via.placeholder.com/600x300?text=Exemplo+de+Visualização+2) <!-- Substitua pelo link da sua imagem -->
-![Exemplo de Visualização 3](https://via.placeholder.com/600x300?text=Exemplo+de+Visualização+3) <!-- Substitua pelo link da sua imagem -->
 
 ## 🎥 Animações de Aprendizado
 
-![Animação 1](https://media.giphy.com/media/3o7aD5f2NeFzK6x0zG/giphy.gif) <!-- Substitua pelo link da sua animação -->
-![Animação 2](https://media.giphy.com/media/5GoVLqeAOo6PK8Qv9i/giphy.gif) <!-- Substitua pelo link da sua animação -->
+![Animação 1](https://giphy.com/embed/26tn33aiTi1jkl6H6) <!-- Substitua pelo link da sua animação -->
+
 
 ---
 
