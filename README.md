@@ -38,7 +38,7 @@
 
 ## 🎥 Animações de Aprendizado
 
-![Animação 1](https://giphy.com/embed/26tn33aiTi1jkl6H6) <!-- Substitua pelo link da sua animação -->
+![Animação 1](https://giphy.com/embed/26tn33aiTi1jkl6H6](https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6) <!-- Substitua pelo link da sua animação -->
 
 
 Agradeço por visitar meu repositório! 🌟
