@@ -1,5 +1,7 @@
+
+## 💻Allefy Rafael
 <div align=center>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=008F39&width=600&lines=Bem-vindo!+%F0%9F%91%8B+Eu+sou+Allefy+Rafael" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=008F39&width=600&lines=Seja+Bem-Vindo+,Terraqueo(a)!+%F0%9F%91%8B+" alt="Typing SVG" />
   <img align=center src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=300&color=FF0000&width=600&lines=Veja+Mais+Descendo+" alt="Typing SVG" />
 </div>
 <div style="display: flex" align=center>
