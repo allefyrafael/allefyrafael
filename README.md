@@ -1,6 +1,4 @@
 <div align=center>
-  <h1>💻Allefy Rafael📊</h1>
-  <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=008F39&width=600&lines=Seja+Bem-Vindo+,Terraqueo(a)!+%F0%9F%91%8B+" alt="Typing SVG" />
   <br>
 </div>
