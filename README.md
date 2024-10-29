@@ -1,6 +1,7 @@
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=008F39&width=600&lines=Bem-vindo!+%F0%9F%91%8B+Eu+sou+Allefy+Rafael+" alt="Typing SVG" />
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=FF0000&width=600&lines=Veja+Mais+Descendo+" alt="Typing SVG" />
-
+<div align=center>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=008F39&width=600&lines=Bem-vindo!+%F0%9F%91%8B+Eu+sou+Allefy+Rafael+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=FF0000&width=600&lines=Veja+Mais+Descendo+" alt="Typing SVG" />
+</div>
 <div style="display: flex" align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=allefyrafael&show_icons=true&theme=dark&card_width=300" />
