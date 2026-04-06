@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1500&color=22C55E&center=true&vCenter=true&width=700&height=60&lines=transformando+dados+em+decis%C3%B5es" alt="headline" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=1&pause=99999&color=484848&center=true&vCenter=true&width=500&height=28&lines=Professor+%26+Cientista+de+Dados+%C2%B7+Bras%C3%ADlia%2C+DF+%C2%B7+he%2Fhim" alt="role" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=500&height=28&lines=Professor+%26+Cientista+de+Dados+%C2%B7+Bras%C3%ADlia%2C+DF+%C2%B7+he%2Fhim" alt="role" />
 
 <br/>
 <br/>
@@ -35,31 +35,13 @@
 
 <div align="center">
 
-| contribuições | longest streak | repositórios |
-|:---:|:---:|:---:|
-| **275** | **7 dias** | **21** |
-
-</div>
-
-<br/>
-
----
-
-### 📊 estatísticas
-
-<div align="center">
-
-<img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=allefyrafael&theme=github-dark-blue&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&background=161b22&sideLabels=484f58&dates=484f58" />
+<img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=allefyrafael&theme=github-dark-blue&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&background=161b22&sideLabels=FFFFFF&dates=FFFFFF" />
 &nbsp;&nbsp;
-<img height="155" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=allefyrafael&layout=compact&theme=github_dark&hide_border=true&langs_count=5&title_color=22c55e&bg_color=161b22" />
+<img height="155" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=allefyrafael&layout=compact&theme=github_dark&hide_border=true&langs_count=5&title_color=22c55e&bg_color=161b22&text_color=FFFFFF" />
 
 </div>
 
 <br/>
-
----
-
-### 🧰 stack · dados & ia
 
 <div align="center">
 
@@ -83,13 +65,6 @@
 <br/>
 
 ---
-
-<br/>
-
----
-
-### 🐍 atividade
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
