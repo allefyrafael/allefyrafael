@@ -1,29 +1,37 @@
 <div align="center">
 
-<sub>allefyrafael / README.md</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1500&color=22C55E&center=true&vCenter=true&width=700&height=60&lines=transformando+dados+em+decis%C3%B5es" alt="headline" />
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=1&pause=99999&color=484848&center=true&vCenter=true&width=500&height=28&lines=Professor+%26+Cientista+de+Dados+%C2%B7+Bras%C3%ADlia%2C+DF+%C2%B7+he%2Fhim" alt="role" />
 
-# transformando dados<br>em decisões inteligentes
+<br/>
+<br/>
 
-<sub>Professor & Cientista de Dados · Brasília, DF · he/him</sub>
-
-<br>
-
-[![Discord](https://img.shields.io/badge/─_discord-161b22?style=flat-square&logo=discord&logoColor=5865F2&labelColor=161b22)](https://discord.gg/fwCCNj8a)
-[![Gmail](https://img.shields.io/badge/─_gmail-161b22?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:allefyrafaeldev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/─_linkedin-161b22?style=flat-square&logo=linkedin&logoColor=0077B5&labelColor=161b22)](https://www.linkedin.com/in/allefy-rafael-0384b6311/)
-[![Kaggle](https://img.shields.io/badge/─_kaggle-161b22?style=flat-square&logo=kaggle&logoColor=20BEFF&labelColor=161b22)](https://www.kaggle.com/)
+<a href="https://discord.gg/fwCCNj8a">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="34" />
+</a>
+&nbsp;
+<a href="mailto:allefyrafaeldev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="34" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/allefy-rafael-0384b6311/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="34" />
+</a>
+&nbsp;
+<a href="https://www.kaggle.com/">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="34" />
+</a>
 
 </div>
 
-<br>
+<br/>
 
-> Apaixonado por transformar dados brutos em **decisões estratégicas**.
-> Atuo como **professor e cientista de dados**, unindo ensino e prática em ML, análise exploratória e visualização.
-> Sempre aprendendo — sempre compartilhando.
+> Apaixonado por transformar dados brutos em **decisões estratégicas**.  
+> **Professor e Cientista de Dados** — unindo ensino e prática em ML, análise exploratória e visualização.  
+> Sempre aprendendo. Sempre compartilhando.
 
-<br>
+<br/>
 
 <div align="center">
 
@@ -33,63 +41,63 @@
 
 </div>
 
+<br/>
+
 ---
 
-### estatísticas
+### 📊 estatísticas
 
 <div align="center">
 
-<img height="148" src="https://github-readme-streak-stats.herokuapp.com/?user=allefyrafael&theme=github-dark-blue&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=484f58&dates=484f58&background=161b22" />
-&nbsp;
-<img height="148" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=allefyrafael&layout=compact&theme=github_dark&hide_border=true&langs_count=5&title_color=22c55e&bg_color=161b22" />
+<img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=allefyrafael&theme=github-dark-blue&hide_border=true&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&background=161b22&sideLabels=484f58&dates=484f58" />
+&nbsp;&nbsp;
+<img height="155" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=allefyrafael&layout=compact&theme=github_dark&hide_border=true&langs_count=5&title_color=22c55e&bg_color=161b22" />
+
+</div>
+
+<br/>
+
+---
+
+### 🧰 stack · dados & ia
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+---
+
+### 🐍 atividade
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
 ---
 
-### stack · dados & ia
-
-![python](https://img.shields.io/badge/python-3572A5?style=flat-square&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![numpy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=flat-square)
-![seaborn](https://img.shields.io/badge/seaborn-4c72b0?style=flat-square)
-![plotly](https://img.shields.io/badge/plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![sql](https://img.shields.io/badge/sql-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![jupyter](https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![r](https://img.shields.io/badge/r-276DC3?style=flat-square&logo=r&logoColor=white)
-![docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-### expertise
-```python
-{
-  "análise exploratória (EDA)": "███████████████████░  95%",
-  "visualização de dados":      "██████████████████░░  90%",
-  "machine learning":           "█████████████████░░░  85%",
-  "modelagem estatística":      "████████████████░░░░  80%",
-  "deep learning":              "██████████████░░░░░░  70%",
-  "NLP":                        "█████████████░░░░░░░  65%",
-}
-```
-
----
-
-### atividade
-
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-<div align="center">
-<sub>dados são o novo petróleo — vamos explorá-los juntos</sub>
+  <sub>dados são o novo petróleo — vamos explorá-los juntos</sub>
 </div>
